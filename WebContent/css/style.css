@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+table {
+	width: 260px;
+}
+
+table, th, td {
+	border: 1px solid #bbb;
+}
+
+input {
+	border-style: none;
+}
