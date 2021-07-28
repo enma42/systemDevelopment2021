@@ -11,3 +11,9 @@ table, th, td {
 input {
 	border-style: none;
 }
+.box{
+width:480px;
+border:10px #dddddd solid;
+margin-bottom:20px;
+text-align: center;
+}
